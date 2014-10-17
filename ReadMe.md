@@ -19,6 +19,8 @@ Frameworks:
     -Bootstrap
     -Normalize
     -JQuery
+    -Initializr - http://www.initializr.com/
+    -Angular JS - https://angularjs.org/
 ===================================================
 Languages:
 ===================================================
